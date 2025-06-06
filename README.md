@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koniz-dev" alt="koniz-dev" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koniz-dev&title=-Stars,-Issues,-Reviews" alt="koniz-dev" /></a>
 </p>
 
 - 🌱 I’m currently learning **DevOps on AWS Specialization**
