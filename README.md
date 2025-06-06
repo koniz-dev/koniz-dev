@@ -9,9 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=koniz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="koniz-dev" />
 </p>
 
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koniz-dev" alt="koniz-dev" /></a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=koniz-dev)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **DevOps on AWS Specialization**
 - 💬 Ask me about **React, Vue, Databases, Algorithms, Agentic AI, etc.**
