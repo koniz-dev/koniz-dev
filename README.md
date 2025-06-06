@@ -9,14 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=koniz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="koniz-dev" />
 </p>
 
-<p style="margin: 0;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="display: block;">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=koniz-dev" 
-      alt="koniz-dev"
-      style="display: block; width: 100%; height: auto;"
-    />
-  </a>
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koniz-dev" alt="koniz-dev" /></a>
 </p>
 
 - 🌱 I’m currently learning **DevOps on AWS Specialization**
