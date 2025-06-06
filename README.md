@@ -13,7 +13,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koniz-dev" alt="koniz-dev" /></a>
 </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **DevOps on AWS Specialization**
 - 💬 Ask me about **React, Vue, Databases, Algorithms, Agentic AI, etc.**
 - 📫 How to reach me **kietna.work@gmail.com**
 - 📄 Know about my experiences [https://koniz-dev.github.io/software-engineer-cv](https://koniz-dev.github.io/software-engineer-cv)
