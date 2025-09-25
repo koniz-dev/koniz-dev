@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **DevOps on AWS Specialization**
 - 💬 Ask me about **React, Vue, Databases, Algorithms, Agentic AI, etc.**
 - 📫 How to reach me **kietna.work@gmail.com**
-- 📄 Know about my experiences [https://koniz-dev.github.io/koniz-dev-portfolio/](https://koniz-dev.github.io/koniz-dev-portfolio/)
+- 📄 Know about my experiences [https://koniz-dev.github.io/koniz-portfolio/](https://koniz-dev.github.io/koniz-portfolio/)
 - ⚡ Fun fact: I enjoy solving competitive programming problems on LeetCode and HackerRank in my free time!
 
 <h3 align="left">Connect with me:</h3>
