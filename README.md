@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://koniz-dev.github.io/koniz-portfolio/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/koniz-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kiet-nguyen-583463276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kietna.work@gmail.com"><img src="https://img.shields.io/badge/Email-2CB67D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://leetcode.com/koniz-dev/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://www.hackerrank.com/koniz_dev"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
@@ -23,15 +23,6 @@ learned while working across independent and collaborative codebases.
 
 At the moment, I am going deeper on DevOps and AWS while keeping my
 problem-solving skills sharp through data structures and algorithms.
-
-## 🚀 Selected work
-
-| Project | Focus |
-| --- | --- |
-| [CanvasLens](https://github.com/koniz-dev/canvaslens) | A TypeScript library for image viewing, annotation, comparison, and overlays. |
-| [Flutter Starter](https://github.com/koniz-dev/flutter-starter) | A production-minded Flutter foundation built around clean architecture. |
-| [Docker Cookbook](https://github.com/koniz-dev/docker-cookbook) | Practical Dockerfile patterns for building safer, smaller services. |
-| [Clash Blueprint Engine](https://github.com/koniz-dev/clash-blueprint-engine) | A framework-independent engine and visual editor for grid-based layouts. |
 
 ## 🛠️ Comfortable with
 
