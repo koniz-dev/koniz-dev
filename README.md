@@ -50,7 +50,11 @@ problem-solving skills sharp through data structures and algorithms.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=koniz-dev&theme=tokyonight&hide_border=true&border_radius=12&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=koniz-dev&theme=tokyonight&hide_border=true&border_radius=12&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=koniz-dev&theme=default&hide_border=true&border_radius=12&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" />
+    <img src="https://streak-stats.demolab.com?user=koniz-dev&theme=tokyonight&hide_border=true&border_radius=12&ring=7F5AF0&fire=2CB67D&currStreakLabel=7F5AF0" alt="GitHub streak" />
+  </picture>
 </p>
 
 <p align="center">
